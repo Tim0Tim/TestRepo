@@ -1,0 +1,16 @@
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\bin\Debug\net5.0\TestRepo.exe
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\bin\Debug\net5.0\TestRepo.deps.json
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\bin\Debug\net5.0\TestRepo.runtimeconfig.json
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\bin\Debug\net5.0\TestRepo.runtimeconfig.dev.json
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\bin\Debug\net5.0\TestRepo.dll
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\bin\Debug\net5.0\ref\TestRepo.dll
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\bin\Debug\net5.0\TestRepo.pdb
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.csproj.AssemblyReference.cache
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.AssemblyInfoInputs.cache
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.AssemblyInfo.cs
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.csproj.CoreCompileInputs.cache
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.dll
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\ref\TestRepo.dll
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.pdb
+C:\Users\4400112995\source\repos\TestRepo\TestRepo\obj\Debug\net5.0\TestRepo.genruntimeconfig.cache
